@@ -618,3 +618,6 @@ footer
   color: var(--clr-font-white);
   letter-spacing: 0.1rem;
 }
+.date {
+  color: var(--clr-primary);
+}
