@@ -303,6 +303,7 @@ hero
   }
   .about-img img {
     height: 100%;
+    -o-object-fit: fill;
     object-fit: fill;
   }
 }
@@ -380,6 +381,7 @@ products
 
 .product-img {
   height: 15rem;
+  -o-object-fit: cover;
   object-fit: cover;
 }
 
@@ -528,6 +530,7 @@ gallery
 
 .gallery-img {
   height: 17rem;
+  -o-object-fit: cover;
   object-fit: cover;
 }
 
